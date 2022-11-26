@@ -1,3 +1,1 @@
 # JS_Concepts and challenges 🚀 👨‍💻
-
-# More concepts coming soon...
